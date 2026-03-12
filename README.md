@@ -21,9 +21,9 @@
 
 ###
 
-<p align="left">- 🏫 Instituto Federal do Paraná<br>- ⚡Estudando para ser um web developer</p>
+<p align="left">- 🏫 Instituto Federal do Paraná<br>- 📓 Sistemas para Internet - UTFPR<br>- ⚡Estudando para ser um desenvolvedor full-stack web</p>
 
-###
+### 
 
 <h3 align="left">🛠 Tecnologias que eu utilizo</h3>
 
@@ -51,6 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
