@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">- 🏫 Instituto Federal do Paraná<br>- 📓 Sistemas para Internet - UTFPR<br>- ⚡Estudando para ser um desenvolvedor full-stack web</p>
+<p align="left">- 🏫 Técnico em Informática para a Internet -  Instituto Federal do Paraná<br>- 📓 Sistemas para Internet - UTFPR<br>- ⚡Estudando para ser um desenvolvedor full-stack web</p>
 
 ### 
 
