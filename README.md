@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=ychrissamp&logo=discord&label=DISCORD&color=7289DA&logoColor=white&labelColor=8ca6ff&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=chriszeraa&logo=discord&label=DISCORD&color=7289DA&logoColor=white&labelColor=8ca6ff&style=for-the-badge" height="25" alt="discord logo"  />
   <a href="mailto:christopherlaislara@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">- 🏫 Técnico em Informática para a Internet -  IFPR<br>- 📓 Sistemas para Internet - UTFPR<br>- ⚡Estudando para ser um desenvolvedor full-stack web</p>
+<p align="left">- 🏫 Técnico em Informática para a Internet -  IFPR<br>- 📓 Sistemas para Internet - UTFPR (em formação)<br>- ⚡Estudando para ser um desenvolvedor full-stack web</p>
 
 ### 
 
